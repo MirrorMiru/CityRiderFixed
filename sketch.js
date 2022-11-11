@@ -160,7 +160,7 @@ drawSprites()
   
 
    if(gameState === 0){ 
- text("Press space to start",windowWidth/2,windowHeight/2)
+ text("Press space to start",250,250)
   gameOver.visible = false
   restart.visible = false
   playsoundt()
